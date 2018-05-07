@@ -36,6 +36,7 @@
     @mixin atSmall {
       font-size: 2.9rem;
     }
+
   }
 
   &__description {
@@ -50,7 +51,6 @@
     @mixin atSmall {
       font-size: 1.875rem;
     }
-
   }
 
 }
